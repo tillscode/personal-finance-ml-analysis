@@ -1,0 +1,34 @@
+# Data files (keep your financial data private!)
+*.csv
+data/
+cleaned_financial_data.csv
+ml_features.csv
+ml_targets.csv
+category_monthly_data.csv
+
+# Model files  
+*.pkl
+trained_models.pkl
+financial_ml_model.pkl
+trained_expense_model.pkl
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# Output files
+personal_finance_dashboard.html
+portfolio_summary_stats.csv
+data_summary_stats.csv
+da
