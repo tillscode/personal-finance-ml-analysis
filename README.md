@@ -115,6 +115,6 @@ python 3_interactive_dashboard.py
 **Tyler Nguyen** - MIS Student & Data Analyst Enthusiast
 
 - 📧 Email: work.tylernguyen@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/nguyen-tyler/)
+- 💼 LinkedIn: [linkedin.com/in/nguyen-tyler](https://www.linkedin.com/in/nguyen-tyler/)
 - 📱 GitHub: [@tillscode](https://github.com/tillscode)
 
